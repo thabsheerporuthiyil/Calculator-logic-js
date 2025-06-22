@@ -1,1 +1,1 @@
-# Calculator-logic-js
+<p>Simple calculator logic</p>
